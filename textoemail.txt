@@ -1,0 +1,23 @@
+<p>Olá,
+
+gostaríamos de agradecer o seu apoio e o interesse em nosso eBook "Guia Definitivo para um App de Sucesso"!
+Nos acompanhe, sempre sairá novidades :) </p>
+
+<p> LINK DO EBOOK </p>
+
+<p>Um grande abraço,
+Equipe AppPromoters </p>
+
+
+<p> LINK DO BLOG <p>
+
+
+
+cards bootstrap
+
+<div class="alert alert-success">
+	<strong>Agradecemos o seu apoio e o interesse em nosso eBook "Guia Definitivo para um App de Sucesso"!
+Verifique seu email, sempre sairá novidades :)</strong>
+</div>
+
+
